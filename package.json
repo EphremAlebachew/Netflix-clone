@@ -1,0 +1,14 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "webpack --config webpack.config.js"
+  },
+  "devDependencies": {
+    "webpack": "^5.37.1",
+    "webpack-cli": "^4.7.2"
+  },
+  "dependencies": {
+    "firebase": "^9.21.0"
+  }
+}
